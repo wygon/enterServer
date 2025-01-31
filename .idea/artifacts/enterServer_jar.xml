@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="enterServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/enterServer_jar</output-path>
+    <root id="archive" name="enterServer.jar">
+      <element id="module-output" name="enterServer" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: enterServer
+version: '1.22'
+main: plugins.enterServer.EnterServer
+api-version: '1.2'
+description: after entering server events
